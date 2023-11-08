@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-# trigger
 require 'faraday'
 
 module Twilio
