@@ -43,5 +43,3 @@ end
 def parse(twiml_response)
   Nokogiri::XML::Document.parse(twiml_response.to_s, &:noblanks)
 end
-
-# trigger
