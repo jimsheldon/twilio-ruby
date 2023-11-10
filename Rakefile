@@ -8,3 +8,5 @@ RSpec::Core::RakeTask.new(:spec)
 
 task default: :spec
 task test: :spec
+
+# test
